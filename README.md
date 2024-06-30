@@ -1,6 +1,6 @@
 # Mighty Wizards
 
-Created by Lue Kely Anunciacion BSCS 3-2
+Created by Lue Kely 
 
 ## About
 
@@ -18,3 +18,6 @@ Might Wizards is a top down roguelike bullet heaven similar to games like vampir
 ## System Requirements:
 
 1. not that much, this will run on any hardware as long as it has windows 10 above
+
+# DEMO
+https://github.com/LueKely/Mighty-Wizards-The-Game/blob/main/public/Gameplay.mp4
